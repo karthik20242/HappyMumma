@@ -1,0 +1,21 @@
+[
+  {
+    "user_id": "CD26050005",
+    "full_name": "Test Customer",
+    "mobile_number": "+919876543210",
+    "email": "cutcart202@gmail.com",
+    "house_flat": "Flat 101",
+    "street_area": "RK Township",
+    "landmark": "Central Park",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560100",
+    "otp_hash": "2b6fd73ee99792d7f99dd1f27cf59b28a5f6fbd2005402740393c12ad156ada1",
+    "otp_expiry": 1789809303113,
+    "otp_attempts": 0,
+    "otp_last_sent": 1789809003113,
+    "otp_verified": false,
+    "created_at": "2026-09-19T09:09:28.002Z",
+    "otp_resend_count": 1
+  }
+]

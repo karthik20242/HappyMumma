@@ -1,0 +1,263 @@
+[
+  {
+    "id": "LOG-2BE6611A",
+    "timestamp": "2026-09-27T18:12:23.823Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "DELETE_DISH",
+    "entity": "dish",
+    "entityId": "chef-special-butter-chicken",
+    "details": "Archived/Removed dish \"chef-special-butter-chicken\" in Supabase"
+  },
+  {
+    "id": "LOG-A310E865",
+    "timestamp": "2026-09-27T18:12:23.614Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "TOGGLE_AVAILABILITY",
+    "entity": "dish",
+    "entityId": "chef-special-butter-chicken",
+    "details": "Set \"Chef Special Butter Chicken\" stock status to Out of Stock"
+  },
+  {
+    "id": "LOG-44212430",
+    "timestamp": "2026-09-27T18:12:23.371Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "CREATE_DISH",
+    "entity": "dish",
+    "entityId": "chef-special-butter-chicken",
+    "details": "Added new dish \"Chef Special Butter Chicken\" (₹249, pos #1) in category \"Chef Specials\""
+  },
+  {
+    "id": "LOG-93A73419",
+    "timestamp": "2026-09-26T05:36:41.669Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "CREATE_DISH",
+    "entity": "dish",
+    "entityId": "smoky-peri-peri-tandoori-1267",
+    "details": "Added new dish \"Smoky Peri Peri Tandoori 1267\" (₹189, pos #1) in category \"Smoke & Sizzle\""
+  },
+  {
+    "id": "LOG-BDF3AEE0",
+    "timestamp": "2026-09-14T10:51:54.602Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "DELETE_CUSTOMER",
+    "entity": "Customer",
+    "entityId": "ALL_CUSTOMERS",
+    "details": "All customer accounts (1 deleted) permanently cleared by Admin. Admin account and orders remain safely intact."
+  },
+  {
+    "id": "LOG-470F1155",
+    "timestamp": "2026-09-14T10:51:54.128Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-6591DE58",
+    "timestamp": "2026-09-14T10:51:25.424Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "DELETE_CUSTOMER",
+    "entity": "Customer",
+    "entityId": "ALL_CUSTOMERS",
+    "details": "All customer accounts (0 deleted) permanently cleared by Admin. Admin account and orders remain safely intact."
+  },
+  {
+    "id": "LOG-FCC21489",
+    "timestamp": "2026-09-14T10:51:21.614Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-EE56D835",
+    "timestamp": "2026-09-04T12:23:42.124Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-A7A5D0E5",
+    "timestamp": "2026-09-04T12:19:25.427Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-EE68D7C0",
+    "timestamp": "2026-09-04T12:19:25.422Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-85112332",
+    "timestamp": "2026-09-04T12:19:25.418Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-7DFE1D34",
+    "timestamp": "2026-09-04T12:19:25.415Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-813F090D",
+    "timestamp": "2026-09-04T12:19:25.412Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-4A8E8C96",
+    "timestamp": "2026-09-04T12:19:25.410Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-F1CEE881",
+    "timestamp": "2026-09-04T12:19:25.406Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-12F423E4",
+    "timestamp": "2026-09-04T12:19:25.401Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-B6A14B1E",
+    "timestamp": "2026-09-04T12:19:25.388Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-28394EE8",
+    "timestamp": "2026-09-04T12:07:46.354Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-01D03A42",
+    "timestamp": "2026-09-04T08:46:12.133Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-3A741232",
+    "timestamp": "2026-09-04T08:46:12.114Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-7CF6DB09",
+    "timestamp": "2026-09-03T08:36:51.175Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-33183884",
+    "timestamp": "2026-09-03T08:32:52.423Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-BFA6A954",
+    "timestamp": "2026-09-03T08:30:29.594Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via OTP verification"
+  },
+  {
+    "id": "LOG-48684203",
+    "timestamp": "2026-09-03T08:30:08.968Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-6DF106D2",
+    "timestamp": "2026-09-03T08:30:05.235Z",
+    "adminEmail": "happymumma2025@gmail.com",
+    "action": "ADMIN_LOGIN",
+    "entity": "admin_portal",
+    "entityId": "USR-ADMIN",
+    "details": "Admin logged in successfully via authorized Gmail + password"
+  },
+  {
+    "id": "LOG-2641AA9F",
+    "timestamp": "2026-08-22T09:15:30.958Z",
+    "adminEmail": "admin@happymumma.com",
+    "action": "CREATE_DISH",
+    "entity": "dish",
+    "entityId": "test-dish-200",
+    "details": "Added new dish \"Test dish 200\" (₹200) in category \"Cooking Kits\""
+  },
+  {
+    "id": "LOG-89D85429",
+    "timestamp": "2026-08-22T07:29:10.195Z",
+    "adminEmail": "admin@happymumma.com",
+    "action": "UPDATE_DISH",
+    "entity": "dish",
+    "entityId": "test-dish",
+    "details": "Updated details for dish \"Test Dish\" (₹200)"
+  },
+  {
+    "id": "LOG-5DE101BE",
+    "timestamp": "2026-08-22T07:28:02.179Z",
+    "adminEmail": "admin@happymumma.com",
+    "action": "CREATE_DISH",
+    "entity": "dish",
+    "entityId": "test-dish",
+    "details": "Added new dish \"Test Dish\" (₹100) in category \"sunday_feast\""
+  }
+]

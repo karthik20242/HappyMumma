@@ -1,0 +1,8 @@
+{
+  "name": "HappyMumma",
+  "description": "A modern Tamil Nadu cooking kit delivery platform offering pre-packed ingredients and authentic home-style recipes.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

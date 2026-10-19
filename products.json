@@ -1,0 +1,551 @@
+[
+  {
+    "id": "smoky-peri-peri-tandoori-1267",
+    "name": "Smoky Peri Peri Tandoori 1267",
+    "description": "Zesty tandoori cuts infused with rich peri peri chili and lemon garlic glaze.",
+    "price": 189,
+    "category": "Smoke & Sizzle",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=800",
+    "imageFilename": "",
+    "prepTime": "15 min",
+    "servingSize": "250 g",
+    "ingredients": [],
+    "steps": [],
+    "tips": [],
+    "position": 1,
+    "displayOrder": 1,
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-09-26T05:36:41.339+00:00",
+    "updatedAt": "2026-09-26T05:36:41.339+00:00"
+  },
+  {
+    "id": "malai-chicken",
+    "name": "Malai Chicken",
+    "description": "Tender pieces of raw chicken cuts infused with fragrant green cardamom, rich fresh cream, and mild spices. Ready to pan-fry or grill.",
+    "price": 130,
+    "position": 1,
+    "displayOrder": 1,
+    "category": "Grills & Tandoori",
+    "image": "/src/assets/images/malai_chicken_1782559892419.jpg",
+    "imageFilename": "",
+    "prepTime": "20 min",
+    "servingSize": "250–300 g",
+    "ingredients": [
+      {
+        "name": "Fresh Tender Chicken Cuts",
+        "amount": "250g"
+      },
+      {
+        "name": "Cream-Cheese Cardamom Marinade",
+        "amount": "60g"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Pan sear with a little butter on low-medium heat."
+      },
+      {
+        "step": 2,
+        "instruction": "Cook for 12-14 minutes until juicy and gently browned."
+      }
+    ],
+    "tips": [
+      "Pairs delightfully with mint yogurt chutney."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-08-22T06:43:52.618215+00:00",
+    "updatedAt": "2026-08-22T06:43:52.618215+00:00"
+  },
+  {
+    "id": "paprika-chicken",
+    "name": "Paprika Chicken",
+    "description": "Tender fresh raw chicken cuts seasoned in a robust marinade of smoky Spanish paprika, garlic, fresh olive oil, and lemon. Ready to cook.",
+    "price": 130,
+    "position": 2,
+    "displayOrder": 2,
+    "category": "Grills & Tandoori",
+    "image": "/src/assets/images/paprika_chicken_1782560296127.jpg",
+    "imageFilename": "",
+    "prepTime": "20 min",
+    "servingSize": "250–300 g",
+    "ingredients": [
+      {
+        "name": "Fresh Tender Chicken Cuts",
+        "amount": "250g"
+      },
+      {
+        "name": "Smoked Paprika & Garlic Glaze",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Cook in a hot cast-iron skillet for 5-6 minutes per side."
+      },
+      {
+        "step": 2,
+        "instruction": "Rest for 3 minutes before serving to keep juices locked in."
+      }
+    ],
+    "tips": [
+      "Delicious inside pita bread or alongside herb-roasted potatoes."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-08-22T06:43:52.618215+00:00",
+    "updatedAt": "2026-08-22T06:43:52.618215+00:00"
+  },
+  {
+    "id": "paneer-tikka",
+    "name": "Paneer Tikka",
+    "description": "Premium fresh cottage cheese cubes, bell peppers, and onions heavily marinated in a spicy mustard oil and tandoori yogurt marinade. Ready to cook.",
+    "price": 130,
+    "position": 3,
+    "displayOrder": 3,
+    "category": "Grills & Tandoori",
+    "image": "/src/assets/images/paneer_tikka_1782560312644.jpg",
+    "imageFilename": "",
+    "prepTime": "20 min",
+    "servingSize": "250–300 g",
+    "ingredients": [
+      {
+        "name": "Fresh Malai Paneer Cubes",
+        "amount": "200g"
+      },
+      {
+        "name": "Cut Capsicum & Onion Medley",
+        "amount": "80g"
+      },
+      {
+        "name": "Spiced Mustard Oil Tandoori Paste",
+        "amount": "60g"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Thread onto skewers or arrange on a hot pan."
+      },
+      {
+        "step": 2,
+        "instruction": "Sear for 2-3 minutes on each side until slightly charred."
+      }
+    ],
+    "tips": [
+      "Do not overcook paneer to keep it delightfully soft and tender."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-08-22T06:43:52.618215+00:00",
+    "updatedAt": "2026-08-22T06:43:52.618215+00:00"
+  },
+  {
+    "id": "lemon-chicken",
+    "name": "Lemon Chicken",
+    "description": "Zesty, tender fresh raw chicken cuts marinated in fresh lemon juice, crushed black pepper, and premium aromatic herbs. Ready to cook.",
+    "price": 130,
+    "position": 4,
+    "displayOrder": 4,
+    "category": "Grills & Tandoori",
+    "image": "/src/assets/images/grilled_lemon_chicken_1782559549349.jpg",
+    "imageFilename": "",
+    "prepTime": "20 min",
+    "servingSize": "250–300 g",
+    "ingredients": [
+      {
+        "name": "Fresh Raw Chicken Cuts",
+        "amount": "250g"
+      },
+      {
+        "name": "Zesty Lemon & Herb Marinade",
+        "amount": "50g"
+      },
+      {
+        "name": "Crushed Black Pepper & Olive Oil",
+        "amount": "15ml"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Preheat pan or grill with 1 tsp oil on medium-high."
+      },
+      {
+        "step": 2,
+        "instruction": "Pan-sear or grill for 6-8 minutes on each side until fully cooked and golden."
+      }
+    ],
+    "tips": [
+      "Garnish with fresh lemon wedges and finely chopped parsley."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-08-22T06:43:52.618215+00:00",
+    "updatedAt": "2026-08-22T06:43:52.618215+00:00"
+  },
+  {
+    "id": "shadhi-biryani",
+    "name": "Shadhi Biryani",
+    "description": "Hero Dish of Sunday Feast. Premium authentic slow-cooked clay pot chicken biryani prepared fresh on Sunday. Includes Complimentary: Raita (Onion Pachadi) — 100% FREE with every order.",
+    "price": 350,
+    "position": 1,
+    "displayOrder": 1,
+    "category": "Sunday Feast",
+    "image": "/src/assets/images/shadhi_biryani_1782560727804.jpg",
+    "imageFilename": "",
+    "prepTime": "Sunday Only",
+    "servingSize": "1 KG per order",
+    "ingredients": [
+      {
+        "name": "Seeraga Samba / Basmati Aged Rice",
+        "amount": "500g"
+      },
+      {
+        "name": "Fresh Tender Farm Chicken",
+        "amount": "500g"
+      },
+      {
+        "name": "Shadhi Dum Masala with Pure Ghee",
+        "amount": "150g"
+      },
+      {
+        "name": "Complimentary: Raita (Onion Pachadi)",
+        "amount": "100% FREE"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Delivered fresh & warm in traditional festive packaging."
+      },
+      {
+        "step": 2,
+        "instruction": "Serve directly with included complimentary Raita (Onion Pachadi) and brinjal gravy."
+      }
+    ],
+    "tips": [
+      "Made fresh in limited batches every Sunday.",
+      "Complimentary: Raita (Onion Pachadi) is automatically included for FREE with every order."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-08-22T06:43:52.618215+00:00",
+    "updatedAt": "2026-08-22T06:43:52.618215+00:00"
+  },
+  {
+    "id": "mumas-chicken-fry-sunday",
+    "name": "Mumma's Chicken Fry",
+    "description": "Vibrant, crispy, and highly aromatic South Indian style fried chicken marinated in premium local herbs and spices.",
+    "price": 99,
+    "position": 2,
+    "displayOrder": 2,
+    "category": "Sunday Feast",
+    "image": "/src/assets/images/mummas_chicken_fry_1782561068155.jpg",
+    "imageFilename": "",
+    "prepTime": "Sunday Only",
+    "servingSize": "250 g",
+    "ingredients": [
+      {
+        "name": "Crispy Spiced Chicken Fry",
+        "amount": "250g"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Ready to eat immediately."
+      }
+    ],
+    "tips": [
+      "Crispy and hot weekend special."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-08-22T06:43:52.618215+00:00",
+    "updatedAt": "2026-08-22T06:43:52.618215+00:00"
+  },
+  {
+    "id": "mumas-fish-fry-sunday-fest",
+    "name": "Mumma's Fish Fry",
+    "description": "Perfectly pan-fried crispy fish slices coated in our signature South Indian tawa fish fry masala.",
+    "price": 100,
+    "position": 3,
+    "displayOrder": 3,
+    "category": "Sunday Feast",
+    "image": "/src/assets/images/mummas_fish_fry_1782561050795.jpg",
+    "imageFilename": "",
+    "prepTime": "Sunday Only",
+    "servingSize": "2 pieces",
+    "ingredients": [
+      {
+        "name": "Fresh Vanjaram Fish Slice (Pan Fried)",
+        "amount": "2 slices"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Ready to eat immediately."
+      }
+    ],
+    "tips": [
+      "Weekend special seafood."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-08-22T06:43:52.618215+00:00",
+    "updatedAt": "2026-08-22T06:43:52.618215+00:00"
+  },
+  {
+    "id": "bread-halwa",
+    "name": "Mumma's Special Bread Halwa",
+    "description": "A rich, traditional wedding-style sweet dessert made by frying premium bread slices in pure ghee, slow-simmered with milk, sugar, and roasted cashews.",
+    "price": 60,
+    "position": 4,
+    "displayOrder": 4,
+    "category": "Sunday Feast",
+    "image": "/src/assets/images/mummas_bread_halwa_1782561085673.jpg",
+    "imageFilename": "",
+    "prepTime": "Sunday Only",
+    "servingSize": "100 g",
+    "ingredients": [
+      {
+        "name": "Ghee-Fried Bread Cubes & Condensed Milk Mash",
+        "amount": "100g"
+      },
+      {
+        "name": "Roasted Cashews & Saffron Garnish",
+        "amount": "15g"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Warm slightly in microwave for 15 seconds for heavenly aroma and taste."
+      }
+    ],
+    "tips": [
+      "Authentic Shadhi / Wedding celebration taste."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-08-22T06:43:52.618215+00:00",
+    "updatedAt": "2026-08-22T06:43:52.618215+00:00"
+  },
+  {
+    "id": "millet-ambali",
+    "name": "Millet Ambali (Fermented Morning Drink)",
+    "description": "7-Day Plan: Slow fermented little & finger millets with organic cultured curd, shallots, ginger, and curry leaves.",
+    "price": 120,
+    "position": 1,
+    "displayOrder": 1,
+    "category": "Millet Morning",
+    "image": "/src/assets/images/millet_ambali_combo_1782558484625.jpg",
+    "imageFilename": "",
+    "prepTime": "Daily Morning",
+    "servingSize": "7-Day Plan",
+    "ingredients": [
+      {
+        "name": "Fermented Little & Finger Millets",
+        "amount": "300ml daily"
+      },
+      {
+        "name": "Organic Cultured Curd, Shallots, Ginger & Curry Leaves",
+        "amount": "Daily Portion"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Available for pickup fresh every morning at store or doorstep delivery."
+      }
+    ],
+    "tips": [
+      "Probiotic Elixir: Promotes healthy gut microbiome and acid neutralization."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-08-22T06:43:52.618215+00:00",
+    "updatedAt": "2026-08-22T06:43:52.618215+00:00"
+  },
+  {
+    "id": "protein-rich-salad",
+    "name": "Sprouted Protein Rich Salad",
+    "description": "7-Day Plan: Green moong, horse gram, grated coconut, pomegranate, cucumber, and lemon-pepper seasoning.",
+    "price": 545,
+    "position": 2,
+    "displayOrder": 2,
+    "category": "Millet Morning",
+    "image": "/src/assets/images/rainbow_salad_1782558500301.jpg",
+    "imageFilename": "",
+    "prepTime": "Daily Morning",
+    "servingSize": "7-Day Plan",
+    "ingredients": [
+      {
+        "name": "Sprouted Green Moong & Horse Gram",
+        "amount": "150g daily"
+      },
+      {
+        "name": "Grated Coconut, Pomegranate, Cucumber & Lemon-Pepper Dressing",
+        "amount": "Daily Portion"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Ready to eat freshly sprouted cold salad pack."
+      }
+    ],
+    "tips": [
+      "Plant Fuel: High bio-available protein and digestive enzymes."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-08-22T06:43:52.618215+00:00",
+    "updatedAt": "2026-08-22T06:43:52.618215+00:00"
+  },
+  {
+    "id": "millet-boiled-eggs",
+    "name": "2 Boiled Eggs",
+    "description": "Optional Add-on: 2 freshly boiled farm eggs daily.",
+    "price": 30,
+    "position": 3,
+    "displayOrder": 3,
+    "category": "Millet Morning",
+    "image": "/src/assets/images/millet_ambali_combo_1782558484625.jpg",
+    "imageFilename": "",
+    "prepTime": "Ready to Eat",
+    "servingSize": "2 Boiled Eggs",
+    "ingredients": [
+      {
+        "name": "Farm Fresh Boiled Eggs",
+        "amount": "2 eggs"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Freshly boiled and peeled."
+      }
+    ],
+    "tips": [
+      "Optional daily protein booster."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-08-22T06:43:52.618215+00:00",
+    "updatedAt": "2026-08-22T06:43:52.618215+00:00"
+  },
+  {
+    "id": "mumas-fish-fry",
+    "name": "Mumma's Special Fish Fry",
+    "description": "Premium raw fresh fish steaks marinated in a secret blend of local South Indian spices, ginger-garlic paste, and lemon juice. Ready to deep/pan fry.",
+    "price": 130,
+    "position": 5,
+    "displayOrder": 5,
+    "category": "Grills & Tandoori",
+    "image": "/src/assets/images/mummas_fish_fry_1782561050795.jpg",
+    "imageFilename": "",
+    "prepTime": "15 min",
+    "servingSize": "250–300 g",
+    "ingredients": [
+      {
+        "name": "Fresh Cleaned Fish Steaks",
+        "amount": "250g"
+      },
+      {
+        "name": "Crispy Fish Fry Masala Paste",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Heat 3 tbsp oil in a flat tawa on medium heat."
+      },
+      {
+        "step": 2,
+        "instruction": "Shallow fry fish slices for 4-5 minutes per side until crisp and golden brown."
+      }
+    ],
+    "tips": [
+      "Sprinkle with chopped curry leaves and onion rings."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-08-22T06:43:52.618215+00:00",
+    "updatedAt": "2026-08-22T06:43:52.618215+00:00"
+  },
+  {
+    "id": "mayonnaise",
+    "name": "Mayonnaise",
+    "description": "Smooth, rich, and creamy homemade dip with a glossy velvety texture and delicious balanced flavor. Perfect accompaniment for rolls, grills, and snacks.",
+    "price": 40,
+    "position": 6,
+    "displayOrder": 6,
+    "category": "Grills & Tandoori",
+    "image": "/uploads/mayonnaise.jpg",
+    "imageFilename": "mayonnaise.jpg",
+    "prepTime": "Fresh Dip",
+    "servingSize": "100 g cup",
+    "ingredients": [
+      {
+        "name": "Fresh Creamy Dip Blend",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Serve chilled alongside hot grills, rolls, or appetizers."
+      }
+    ],
+    "tips": [
+      "Keep refrigerated for optimum freshness."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-09-04T13:25:42.609Z",
+    "updatedAt": "2026-09-10T05:29:16.000Z"
+  },
+  {
+    "id": "homemade-paneer",
+    "name": "Paneer",
+    "description": "100% pure whole buffalo milk homemade soft malai paneer. Freshly prepared daily on order, vacuum-sealed and completely chemical & preservative-free.",
+    "price": 120,
+    "position": 1,
+    "displayOrder": 1,
+    "category": "Paneer",
+    "image": "/uploads/fresh_paneer_cubes_1782559159978.jpg",
+    "imageFilename": "fresh_paneer_cubes_1782559159978.jpg",
+    "prepTime": "Fresh Daily",
+    "servingSize": "200 g (customizable)",
+    "ingredients": [
+      {
+        "name": "Pure Whole Buffalo Milk",
+        "amount": "100%"
+      },
+      {
+        "name": "Natural Lemon Juice Curdling",
+        "amount": "Pure"
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "instruction": "Cut into fresh soft cubes and use directly in curries, tikka, or pan-sear with herbs."
+      }
+    ],
+    "tips": [
+      "Keep refrigerated and consume fresh within 3-4 days."
+    ],
+    "isAvailable": true,
+    "isArchived": false,
+    "createdAt": "2026-09-12T12:00:00.000Z",
+    "updatedAt": "2026-09-12T12:00:00.000Z"
+  }
+]
